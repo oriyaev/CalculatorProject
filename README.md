@@ -19,7 +19,7 @@ This is a basic Android calculator application built using **Java** and **XML**.
 - **Language:** Java  
 - **UI:** XML  
 - **Platform:** Android Studio
-- 
+  
 ---
 
 ## 🚀 Getting Started
