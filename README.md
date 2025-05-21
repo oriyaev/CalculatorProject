@@ -33,4 +33,4 @@ This is a basic Android calculator application built using **Java** and **XML**.
 ## 👩‍💻 Created By
 
 - **Oriya Even Chen - 207810482**
-- **Noa Lugashi -**
+- **Noa Lugashi - 323835900**
